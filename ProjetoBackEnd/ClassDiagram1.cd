@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProjetoBackEnd.Entity.Pessoa">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgCABAAAAAAAAAAMAACAAAAAAAAAEAAGAAAA=</HashCode>
+      <FileName>Entity\Pessoa.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Telefones" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ProjetoBackEnd.Entity.Telefone">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAgAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\Telefone.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Pessoa" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ProjetoBackEnd.Entity.Boleto" Collapsed="true">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\Boleto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetoBackEnd.Entity.Funcionario">
+    <Position X="1" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\Funcionario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetoBackEnd.Entity.Morador">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEABAAAAAAAAAAAAAEABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\Morador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetoBackEnd.Entity.Notificacao" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAABABAAAAAAQAEAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Entity\Notificacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetoBackEnd.Entity.Sindico">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\Sindico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetoBackEnd.Entity.Unidade" Collapsed="true">
+    <Position X="7.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\Unidade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetoBackEnd.Entity.Proprietario">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\Proprietario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

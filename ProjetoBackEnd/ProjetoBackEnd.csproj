@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A3E70EB1-3CB2-4152-B3CA-8B2A73B3CCD7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProjetoBackEnd</RootNamespace>
+    <AssemblyName>ProjetoBackEnd</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data\BoletoData.cs" />
+    <Compile Include="Data\Conexao.cs" />
+    <Compile Include="Data\FuncionarioData.cs" />
+    <Compile Include="Data\MoradorData.cs" />
+    <Compile Include="Data\NotificacaoData.cs" />
+    <Compile Include="Data\PessoaData.cs" />
+    <Compile Include="Data\ProprietarioData.cs" />
+    <Compile Include="Data\SindicoData.cs" />
+    <Compile Include="Data\UnidadeData.cs" />
+    <Compile Include="Entity\Boleto.cs" />
+    <Compile Include="Entity\Funcionario.cs" />
+    <Compile Include="Entity\Morador.cs" />
+    <Compile Include="Entity\Notificacao.cs" />
+    <Compile Include="Entity\Pessoa.cs" />
+    <Compile Include="Entity\Proprietario.cs" />
+    <Compile Include="Entity\Sindico.cs" />
+    <Compile Include="Entity\Unidade.cs" />
+    <Compile Include="Model\BoletoModel.cs" />
+    <Compile Include="Model\FuncionarioModel.cs" />
+    <Compile Include="Model\MoradorModel.cs" />
+    <Compile Include="Model\NotificacaoModel.cs" />
+    <Compile Include="Model\PessoaModel.cs" />
+    <Compile Include="Model\ProprietarioModel.cs" />
+    <Compile Include="Model\SindicoModel.cs" />
+    <Compile Include="Model\UnidadeModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

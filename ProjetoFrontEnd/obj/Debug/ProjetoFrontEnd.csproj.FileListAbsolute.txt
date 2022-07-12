@@ -1,0 +1,481 @@
+C:\Users\MAQLAB214\Desktop\HiveMind-FATEC-master 1.1 29.09.15\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\MAQLAB214\Desktop\HiveMind-FATEC-master 1.1 29.09.15\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\MAQLAB214\Desktop\HiveMind-FATEC-master 1.1 29.09.15\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\MAQLAB214\Desktop\HiveMind-FATEC-master 1.1 29.09.15\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\MAQLAB214\Desktop\HiveMind-FATEC-master 1.1 29.09.15\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-FATEC-master 1.3 07.10.15\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-FATEC-master 1.3 07.10.15\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-FATEC-master 1.3 07.10.15\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-FATEC-master 1.3 07.10.15\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-FATEC-master 1.3 07.10.15\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-FATEC-master 1.3 07.10.15\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-FATEC-master 1.3 07.10.15\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-FATEC-master 1.3 07.10.15\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.4\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.4\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.4\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.4\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.4\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\maqlab\Desktop\HiveMind-1.4\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.4\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.4 r5\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.4 r5\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.4 r5\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.4 r5\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.4 r5\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.4 r5\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.4 r5\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.4 r7 lol\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-1.4 r7 lol\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.4 r7 lol\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.4 r7 lol\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.4 r7 lol\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.4 r7 lol\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.4 r7 lol\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.4 r7 lol\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.4 r8\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-1.4 r8\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.4 r8\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.4 r8\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.4 r8\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.4 r8\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.4 r8\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.4 r8\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2 - Copia\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2 - Copia\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2 - Copia\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2 - Copia\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2 - Copia\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2 - Copia\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2 - Copia\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2 - Copia\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2 - Copia\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2 - Copia\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2 - Copia\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2 - Copia\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2 - Copia\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2 - Copia\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2 - Copia\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2 - Copia\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\maqlab\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\maqlab\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\maqlab\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\maqlab\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\maqlab\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\maqlab\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\maqlab\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\maqlab\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\maqlab\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.6 outro\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\maqlab\Desktop\HiveMind-1.7\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\maqlab\Desktop\HiveMind-1.7\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\maqlab\Desktop\HiveMind-1.7\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\maqlab\Desktop\HiveMind-1.7\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\maqlab\Desktop\HiveMind-1.7\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7 r3\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r3\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7 r3\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r3\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r3\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r3\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r3\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r3\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7 r3\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\maqlab\Desktop\HiveMind-1.7 r3\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\maqlab\Desktop\HiveMind-1.7 r3\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\maqlab\Desktop\HiveMind-1.7 r3\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\maqlab\Desktop\HiveMind-1.7 r3\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\maqlab\Desktop\HiveMind-1.7 r3\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r3\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\maqlab\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\maqlab\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\maqlab\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\maqlab\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\maqlab\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r4\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7 r7\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r7\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7 r7\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r7\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r7\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r7\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r7\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r7\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7 r7\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\maqlab\Desktop\HiveMind-1.7 r7\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\maqlab\Desktop\HiveMind-1.7 r7\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\maqlab\Desktop\HiveMind-1.7 r7\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\maqlab\Desktop\HiveMind-1.7 r7\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\maqlab\Desktop\HiveMind-1.7 r7\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r7\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7 r8\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r8\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7 r8\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r8\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r8\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r8\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r8\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r8\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7 r8\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\maqlab\Desktop\HiveMind-1.7 r8\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\maqlab\Desktop\HiveMind-1.7 r8\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\maqlab\Desktop\HiveMind-1.7 r8\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\maqlab\Desktop\HiveMind-1.7 r8\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\maqlab\Desktop\HiveMind-1.7 r8\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r8\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.9\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-1.9\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.9\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.9\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\HiveMind-1.9\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.9\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\Desktop\HiveMind-1.9\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\Lucas\Desktop\HiveMind-1.9\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\Desktop\HiveMind-1.9\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.9\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\HiveMind-1.9\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Desktop\HiveMind-1.9\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\Lucas\Desktop\HiveMind-1.9\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Desktop\HiveMind-1.9\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.9\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.9\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.8 r2\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.8 r2\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.8 r2\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\maqlab\Desktop\HiveMind-1.8 r2\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.8 r2\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\maqlab\Desktop\HiveMind-1.8 r2\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\maqlab\Desktop\HiveMind-1.8 r2\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\maqlab\Desktop\HiveMind-1.8 r2\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.8 r2\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\maqlab\Desktop\HiveMind-1.8 r2\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\maqlab\Desktop\HiveMind-1.8 r2\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\maqlab\Desktop\HiveMind-1.8 r2\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\maqlab\Desktop\HiveMind-1.8 r2\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\maqlab\Desktop\HiveMind-1.8 r2\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.8 r2\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.8 r3\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.8 r3\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.8 r3\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\maqlab\Desktop\HiveMind-1.8 r3\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.8 r3\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\maqlab\Desktop\HiveMind-1.8 r3\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\maqlab\Desktop\HiveMind-1.8 r3\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\maqlab\Desktop\HiveMind-1.8 r3\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.8 r3\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\maqlab\Desktop\HiveMind-1.8 r3\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\maqlab\Desktop\HiveMind-1.8 r3\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\maqlab\Desktop\HiveMind-1.8 r3\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\maqlab\Desktop\HiveMind-1.8 r3\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\maqlab\Desktop\HiveMind-1.8 r3\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.8 r3\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r5\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r5\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r5\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r5\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r5\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r5\ProjetoFrontEnd\bin\System.Web.Http.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r5\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r5\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r5\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r5\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r5\ProjetoFrontEnd\bin\System.Web.Http.xml
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r5\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r5\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r5\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r5\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r6\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r6\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r6\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r6\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r6\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r6\ProjetoFrontEnd\bin\System.Web.Http.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r6\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r6\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r6\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r6\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r6\ProjetoFrontEnd\bin\System.Web.Http.xml
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r6\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r6\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r6\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r6\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8 r6 - PRESENTATION\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-1.8 r6 - PRESENTATION\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r6 - PRESENTATION\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8 r6 - PRESENTATION\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r6 - PRESENTATION\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r6 - PRESENTATION\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r6 - PRESENTATION\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r6 - PRESENTATION\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r6 - PRESENTATION\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8 r6 - PRESENTATION\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\HiveMind-1.8 r6 - PRESENTATION\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Desktop\HiveMind-1.8 r6 - PRESENTATION\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\Lucas\Desktop\HiveMind-1.8 r6 - PRESENTATION\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Desktop\HiveMind-1.8 r6 - PRESENTATION\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.8 r6 - PRESENTATION\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r6 - PRESENTATION\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8 final\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+C:\Users\Lucas\Desktop\HiveMind-1.8 final\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 final\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8 final\ProjetoFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 final\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 final\ProjetoFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 final\ProjetoFrontEnd\bin\System.Web.Http.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 final\ProjetoFrontEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 final\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8 final\ProjetoFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\HiveMind-1.8 final\ProjetoFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Desktop\HiveMind-1.8 final\ProjetoFrontEnd\bin\System.Web.Http.xml
+C:\Users\Lucas\Desktop\HiveMind-1.8 final\ProjetoFrontEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Desktop\HiveMind-1.8 final\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.8 final\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 final\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb

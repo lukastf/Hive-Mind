@@ -1,0 +1,145 @@
+C:\Users\MAQLAB214\Desktop\HiveMind-FATEC-master 1.1 29.09.15\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\MAQLAB214\Desktop\HiveMind-FATEC-master 1.1 29.09.15\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\MAQLAB214\Desktop\HiveMind-FATEC-master 1.1 29.09.15\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\MAQLAB214\Desktop\HiveMind-FATEC-master 1.1 29.09.15\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\MAQLAB214\Desktop\HiveMind-FATEC-master 1.1 29.09.15\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-FATEC-master 1.3 07.10.15\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-FATEC-master 1.3 07.10.15\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-FATEC-master 1.3 07.10.15\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-FATEC-master 1.3 07.10.15\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-FATEC-master 1.3 07.10.15\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.4\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.4\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.4\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\maqlab\Desktop\HiveMind-1.4\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.4\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.4 r5\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.4 r5\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.4 r5\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.4 r5\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.4 r5\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.4 r7 lol\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.4 r7 lol\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.4 r7 lol\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.4 r7 lol\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.4 r8\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.4 r8\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.4 r8\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.4 r8\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.4 r8\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.5 r1\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.5 r2\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 outro\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.6 outro\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.6 outro\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.6 outro\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\maqlab\Desktop\HiveMind-1.6 outro\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.6 outro\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.6 - golden edition - Copia - Copia\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\maqlab\Desktop\HiveMind-1.7\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r2\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7 r3\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r3\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7 r3\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\maqlab\Desktop\HiveMind-1.7 r3\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r3\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r4\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7 r4\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r4\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7 r4\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\maqlab\Desktop\HiveMind-1.7 r4\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r4\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r5\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r6\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7 r7\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r7\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7 r7\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\maqlab\Desktop\HiveMind-1.7 r7\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r7\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7 r8\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r8\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.7 r8\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.7 r8\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.7 r9\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.9\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.9\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.9\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.9\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r1\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.8 r2\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.8 r2\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.8 r2\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\maqlab\Desktop\HiveMind-1.8 r2\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.8 r2\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.8 r3\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.8 r3\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\maqlab\Desktop\HiveMind-1.8 r3\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\maqlab\Desktop\HiveMind-1.8 r3\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+C:\Users\Lucas\Desktop\HiveMind-1.8 r4\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r5\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r5\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r5\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+D:\Gustavo\Desktop\HIVEMIND-BACKUP\HiveMind-1.8 r5\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb

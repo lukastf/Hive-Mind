@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D19D0597-63C9-4307-9542-1EADFE173BE6}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProjetoFrontEnd</RootNamespace>
+    <AssemblyName>ProjetoFrontEnd</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.5.0.6\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.Formatting, Version=5.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.0.0\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Http, Version=5.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.5.0.0\lib\net45\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost, Version=5.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.5.0.0\lib\net45\System.Web.Http.WebHost.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="adicionarBoleto\ExibirBoleto.aspx" />
+    <Content Include="adicionarBoleto\IncluiAlteraBoleto.aspx" />
+    <Content Include="adicionarBoleto\ListaBoletos.aspx" />
+    <Content Include="adicionarNotificacao\ExibirNotificacao.aspx" />
+    <Content Include="adicionarNotificacao\IncluiNotificacao.aspx" />
+    <Content Include="adicionarNotificacao\ListaNotificacoes.aspx" />
+    <Content Include="adicionarNotificacao\ListaNotificacoesEnviadas.aspx" />
+    <Content Include="cadastros\ExibirFuncionario.aspx" />
+    <Content Include="cadastros\ExibirMorador.aspx" />
+    <Content Include="cadastros\ExibirProprietario.aspx" />
+    <Content Include="cadastros\ExibirSindico.aspx" />
+    <Content Include="cadastros\ExibirUnidade.aspx" />
+    <Content Include="cadastros\IncluiAlteraFuncionario.aspx" />
+    <Content Include="cadastros\IncluiAlteraMorador.aspx" />
+    <Content Include="cadastros\IncluiAlteraProprietario.aspx" />
+    <Content Include="cadastros\IncluiAlteraSindico.aspx" />
+    <Content Include="cadastros\IncluiAlteraUnidade.aspx" />
+    <Content Include="cadastros\ListaFuncionarios.aspx" />
+    <Content Include="cadastros\ListaMoradores.aspx" />
+    <Content Include="cadastros\ListaProprietarios.aspx" />
+    <Content Include="cadastros\ListaSindicos.aspx" />
+    <Content Include="cadastros\ListaUnidades.aspx" />
+    <Content Include="controlLogin.ascx" />
+    <Content Include="img\bg.jpg" />
+    <Content Include="img\password.png" />
+    <Content Include="img\user.png" />
+    <Content Include="Inicio.aspx" />
+    <Content Include="res\css\bootstrap-theme.css" />
+    <Content Include="res\css\bootstrap-theme.min.css" />
+    <Content Include="res\css\bootstrap.css" />
+    <Content Include="res\css\bootstrap.min.css" />
+    <Content Include="res\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="res\js\bootstrap.js" />
+    <Content Include="res\js\bootstrap.min.js" />
+    <Content Include="res\js\jquery-1.11.3.min.js" />
+    <Content Include="res\js\mascaras.js" />
+    <Content Include="res\js\npm.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adicionarBoleto\ExibirBoleto.aspx.cs">
+      <DependentUpon>ExibirBoleto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adicionarBoleto\ExibirBoleto.aspx.designer.cs">
+      <DependentUpon>ExibirBoleto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adicionarBoleto\IncluiAlteraBoleto.aspx.cs">
+      <DependentUpon>IncluiAlteraBoleto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adicionarBoleto\IncluiAlteraBoleto.aspx.designer.cs">
+      <DependentUpon>IncluiAlteraBoleto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adicionarBoleto\ListaBoletos.aspx.cs">
+      <DependentUpon>ListaBoletos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adicionarBoleto\ListaBoletos.aspx.designer.cs">
+      <DependentUpon>ListaBoletos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adicionarNotificacao\ExibirNotificacao.aspx.cs">
+      <DependentUpon>ExibirNotificacao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adicionarNotificacao\ExibirNotificacao.aspx.designer.cs">
+      <DependentUpon>ExibirNotificacao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adicionarNotificacao\IncluiNotificacao.aspx.cs">
+      <DependentUpon>IncluiNotificacao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adicionarNotificacao\IncluiNotificacao.aspx.designer.cs">
+      <DependentUpon>IncluiNotificacao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adicionarNotificacao\ListaNotificacoes.aspx.cs">
+      <DependentUpon>ListaNotificacoes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adicionarNotificacao\ListaNotificacoes.aspx.designer.cs">
+      <DependentUpon>ListaNotificacoes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adicionarNotificacao\ListaNotificacoesEnviadas.aspx.cs">
+      <DependentUpon>ListaNotificacoesEnviadas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adicionarNotificacao\ListaNotificacoesEnviadas.aspx.designer.cs">
+      <DependentUpon>ListaNotificacoesEnviadas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cadastros\ExibirFuncionario.aspx.cs">
+      <DependentUpon>ExibirFuncionario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cadastros\ExibirFuncionario.aspx.designer.cs">
+      <DependentUpon>ExibirFuncionario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cadastros\ExibirMorador.aspx.cs">
+      <DependentUpon>ExibirMorador.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cadastros\ExibirMorador.aspx.designer.cs">
+      <DependentUpon>ExibirMorador.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cadastros\ExibirProprietario.aspx.cs">
+      <DependentUpon>ExibirProprietario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cadastros\ExibirProprietario.aspx.designer.cs">
+      <DependentUpon>ExibirProprietario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cadastros\ExibirSindico.aspx.cs">
+      <DependentUpon>ExibirSindico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cadastros\ExibirSindico.aspx.designer.cs">
+      <DependentUpon>ExibirSindico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cadastros\ExibirUnidade.aspx.cs">
+      <DependentUpon>ExibirUnidade.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cadastros\ExibirUnidade.aspx.designer.cs">
+      <DependentUpon>ExibirUnidade.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cadastros\IncluiAlteraFuncionario.aspx.cs">
+      <DependentUpon>IncluiAlteraFuncionario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cadastros\IncluiAlteraFuncionario.aspx.designer.cs">
+      <DependentUpon>IncluiAlteraFuncionario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cadastros\IncluiAlteraMorador.aspx.cs">
+      <DependentUpon>IncluiAlteraMorador.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cadastros\IncluiAlteraMorador.aspx.designer.cs">
+      <DependentUpon>IncluiAlteraMorador.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cadastros\IncluiAlteraProprietario.aspx.cs">
+      <DependentUpon>IncluiAlteraProprietario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cadastros\IncluiAlteraProprietario.aspx.designer.cs">
+      <DependentUpon>IncluiAlteraProprietario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cadastros\IncluiAlteraSindico.aspx.cs">
+      <DependentUpon>IncluiAlteraSindico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cadastros\IncluiAlteraSindico.aspx.designer.cs">
+      <DependentUpon>IncluiAlteraSindico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cadastros\IncluiAlteraUnidade.aspx.cs">
+      <DependentUpon>IncluiAlteraUnidade.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cadastros\IncluiAlteraUnidade.aspx.designer.cs">
+      <DependentUpon>IncluiAlteraUnidade.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cadastros\ListaFuncionarios.aspx.cs">
+      <DependentUpon>ListaFuncionarios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cadastros\ListaFuncionarios.aspx.designer.cs">
+      <DependentUpon>ListaFuncionarios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cadastros\ListaMoradores.aspx.cs">
+      <DependentUpon>ListaMoradores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cadastros\ListaMoradores.aspx.designer.cs">
+      <DependentUpon>ListaMoradores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cadastros\ListaProprietarios.aspx.cs">
+      <DependentUpon>ListaProprietarios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cadastros\ListaProprietarios.aspx.designer.cs">
+      <DependentUpon>ListaProprietarios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cadastros\ListaSindicos.aspx.cs">
+      <DependentUpon>ListaSindicos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cadastros\ListaSindicos.aspx.designer.cs">
+      <DependentUpon>ListaSindicos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cadastros\ListaUnidades.aspx.cs">
+      <DependentUpon>ListaUnidades.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cadastros\ListaUnidades.aspx.designer.cs">
+      <DependentUpon>ListaUnidades.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="controlLogin.ascx.cs">
+      <DependentUpon>controlLogin.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="controlLogin.ascx.designer.cs">
+      <DependentUpon>controlLogin.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="HiveMind.Master.cs">
+      <DependentUpon>HiveMind.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HiveMind.Master.designer.cs">
+      <DependentUpon>HiveMind.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.aspx.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Inicio.aspx.designer.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="res\css\bootstrap-theme.css.map" />
+    <Content Include="res\css\bootstrap.css.map" />
+    <Content Include="res\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="res\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="res\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="res\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="HiveMind.Master" />
+    <Content Include="packages.config" />
+    <Content Include="img\Thumbs.db" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProjetoBackEnd\ProjetoBackEnd.csproj">
+      <Project>{a3e70eb1-3cb2-4152-b3ca-8b2a73b3ccd7}</Project>
+      <Name>ProjetoBackEnd</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="adicionarBoleto\App_LocalResources\ExibirBoleto.aspx.en-US.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="adicionarBoleto\App_LocalResources\ExibirBoleto.aspx.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="adicionarNotificacao\App_LocalResources\ExibirNotificacao.aspx.resx">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="adicionarNotificacao\App_LocalResources\ExibirNotificacao.aspx.en-US.resx">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="adicionarNotificacao\App_LocalResources\IncluiNotificacao.aspx.resx">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="adicionarNotificacao\App_LocalResources\IncluiNotificacao.aspx.en-US.resx">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="adicionarNotificacao\App_LocalResources\ListaNotificacoes.aspx.resx">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="adicionarNotificacao\App_LocalResources\ListaNotificacoes.aspx.en-US.resx">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="adicionarNotificacao\App_LocalResources\ListaNotificacoesEnviadas.aspx.resx">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="adicionarBoleto\App_LocalResources\ListaBoletos.aspx.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="adicionarBoleto\App_LocalResources\ListaBoletos.aspx.en-US.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_LocalResources\HiveMind.Master.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_LocalResources\HiveMind.Master.en-US.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cadastros\App_LocalResources\ListaUnidades.aspx.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cadastros\App_LocalResources\ListaUnidades.aspx.en-US.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_LocalResources\Inicio.aspx.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_LocalResources\Inicio.aspx.en-US.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_LocalResources\controlLogin.ascx.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_LocalResources\controlLogin.ascx.en-US.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="adicionarNotificacao\App_LocalResources\ListaNotificacoesEnviadas.aspx.en-US.resx">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cadastros\App_LocalResources\ExibirFuncionario.aspx.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cadastros\App_LocalResources\ExibirFuncionario.aspx.en-US.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cadastros\App_LocalResources\ExibirMorador.aspx.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cadastros\App_LocalResources\ExibirMorador.aspx.en-US.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cadastros\App_LocalResources\ExibirProprietario.aspx.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cadastros\App_LocalResources\ExibirProprietario.aspx.en-US.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cadastros\App_LocalResources\ExibirSindico.aspx.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cadastros\App_LocalResources\ExibirSindico.aspx.en-US.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="adicionarBoleto\App_LocalResources\IncluiAlteraBoleto.aspx.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="adicionarBoleto\App_LocalResources\IncluiAlteraBoleto.aspx.en-US.resx" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:2779/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
